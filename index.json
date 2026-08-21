@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T18:22:13.058299",
+  "generated_at": "2026-08-21T18:21:21.511931",
   "version": "2.0",
-  "total_servers": 57,
+  "total_servers": 51,
   "repository": "kiehr1/vpngate",
   "base_url": "https://raw.githubusercontent.com/kiehr1/vpngate/main/",
   "protocols": [
@@ -9,27 +9,7 @@
     "udp"
   ],
   "countries": {
-    "CA": {
-      "total": 1,
-      "protocols": {
-        "tcp": {
-          "total": 1,
-          "servers": [
-            {
-              "id": 1,
-              "hostname": "vpn491348575",
-              "ip": "184.68.30.116",
-              "port": "1697",
-              "protocol": "tcp",
-              "uptime": 2159.1666994444445,
-              "speed": 21.656858,
-              "config_path": "CA/tcp/server_1_tcp.ovpn"
-            }
-          ]
-        }
-      }
-    },
-    "EE": {
+    "ID": {
       "total": 1,
       "protocols": {
         "udp": {
@@ -37,488 +17,403 @@
           "servers": [
             {
               "id": 1,
-              "hostname": "vpn513507052",
-              "ip": "84.52.60.215",
-              "port": "1504",
+              "hostname": "vpn104-cyberdewata",
+              "ip": "36.83.149.141",
+              "port": "1194",
               "protocol": "udp",
-              "uptime": 45.698921666666664,
-              "speed": 46.434696,
-              "config_path": "EE/udp/server_1_udp.ovpn"
+              "uptime": 25.55908611111111,
+              "speed": 110.683758,
+              "config_path": "ID/udp/server_1_udp.ovpn"
             }
           ]
         }
       }
     },
     "JP": {
-      "total": 37,
+      "total": 26,
       "protocols": {
         "tcp": {
-          "total": 35,
+          "total": 26,
           "servers": [
             {
               "id": 1,
-              "hostname": "vpn177768996",
-              "ip": "221.44.173.56",
-              "port": "1635",
+              "hostname": "vpn193342579",
+              "ip": "118.156.149.7",
+              "port": "1863",
               "protocol": "tcp",
-              "uptime": 192.74253277777777,
-              "speed": 2423.272429,
+              "uptime": 98.342975,
+              "speed": 2437.436503,
               "config_path": "JP/tcp/server_1_tcp.ovpn"
             },
             {
               "id": 2,
-              "hostname": "vpn604676767",
-              "ip": "153.210.129.9",
-              "port": "1463",
+              "hostname": "public-vpn-183",
+              "ip": "219.100.37.161",
+              "port": "443",
               "protocol": "tcp",
-              "uptime": 192.74253277777777,
-              "speed": 846.692611,
+              "uptime": 2114.707033611111,
+              "speed": 752.048732,
               "config_path": "JP/tcp/server_2_tcp.ovpn"
             },
             {
               "id": 3,
-              "hostname": "kanratown",
-              "ip": "59.133.158.94",
-              "port": "992",
+              "hostname": "vpn381446232",
+              "ip": "59.143.87.22",
+              "port": "1210",
               "protocol": "tcp",
-              "uptime": 221.07308833333335,
-              "speed": 758.700692,
+              "uptime": 49.880475,
+              "speed": 686.360561,
               "config_path": "JP/tcp/server_3_tcp.ovpn"
             },
             {
               "id": 4,
-              "hostname": "vpn668314964",
-              "ip": "36.13.32.229",
-              "port": "1209",
+              "hostname": "public-vpn-204",
+              "ip": "219.100.37.181",
+              "port": "443",
               "protocol": "tcp",
-              "uptime": 24.321421666666666,
-              "speed": 746.930251,
+              "uptime": 2114.705616111111,
+              "speed": 578.217253,
               "config_path": "JP/tcp/server_4_tcp.ovpn"
             },
             {
               "id": 5,
-              "hostname": "vpn953698594",
-              "ip": "110.131.199.23",
-              "port": "1404",
+              "hostname": "vpn578034962",
+              "ip": "133.218.25.217",
+              "port": "1702",
               "protocol": "tcp",
-              "uptime": 49.69836611111111,
-              "speed": 704.848318,
+              "uptime": 246.63214166666666,
+              "speed": 571.815,
               "config_path": "JP/tcp/server_5_tcp.ovpn"
             },
             {
               "id": 6,
-              "hostname": "public-vpn-199",
-              "ip": "219.100.37.196",
+              "hostname": "public-vpn-132",
+              "ip": "219.100.37.115",
               "port": "443",
               "protocol": "tcp",
-              "uptime": 2090.8044855555554,
-              "speed": 660.527918,
+              "uptime": 2114.7011711111113,
+              "speed": 534.482105,
               "config_path": "JP/tcp/server_6_tcp.ovpn"
             },
             {
               "id": 7,
-              "hostname": "vpn652870061",
-              "ip": "221.105.196.10",
-              "port": "1780",
+              "hostname": "public-vpn-54",
+              "ip": "219.100.37.19",
+              "port": "443",
               "protocol": "tcp",
-              "uptime": 217.339755,
-              "speed": 633.969753,
+              "uptime": 2114.703876111111,
+              "speed": 482.535899,
               "config_path": "JP/tcp/server_7_tcp.ovpn"
             },
             {
               "id": 8,
-              "hostname": "vpn980675302",
-              "ip": "106.173.177.181",
-              "port": "1765",
+              "hostname": "n26",
+              "ip": "110.163.135.59",
+              "port": "1194",
               "protocol": "tcp",
-              "uptime": 76.5658661111111,
-              "speed": 531.021739,
+              "uptime": 126.33186388888889,
+              "speed": 470.604982,
               "config_path": "JP/tcp/server_8_tcp.ovpn"
             },
             {
               "id": 9,
-              "hostname": "vpn604012320",
-              "ip": "61.26.71.210",
-              "port": "1896",
+              "hostname": "public-vpn-195",
+              "ip": "219.100.37.195",
+              "port": "443",
               "protocol": "tcp",
-              "uptime": 76.5658661111111,
-              "speed": 498.471528,
+              "uptime": 2114.7102258333334,
+              "speed": 420.752413,
               "config_path": "JP/tcp/server_9_tcp.ovpn"
             },
             {
               "id": 10,
-              "hostname": "vpn107502003",
-              "ip": "126.235.133.19",
-              "port": "1263",
+              "hostname": "vpn571931610",
+              "ip": "60.83.88.123",
+              "port": "1909",
               "protocol": "tcp",
-              "uptime": 24.321421666666666,
-              "speed": 405.369148,
+              "uptime": 75.25741944444445,
+              "speed": 391.238275,
               "config_path": "JP/tcp/server_10_tcp.ovpn"
             },
             {
               "id": 11,
-              "hostname": "vpn847336984",
-              "ip": "114.178.213.99",
-              "port": "1884",
+              "hostname": "vpn783293517",
+              "ip": "126.121.103.84",
+              "port": "1544",
               "protocol": "tcp",
-              "uptime": 72.78392166666667,
-              "speed": 400.919059,
+              "uptime": 71.257975,
+              "speed": 379.227224,
               "config_path": "JP/tcp/server_11_tcp.ovpn"
             },
             {
               "id": 12,
-              "hostname": "public-vpn-134",
-              "ip": "219.100.37.104",
+              "hostname": "public-vpn-49",
+              "ip": "219.100.37.15",
               "port": "443",
               "protocol": "tcp",
-              "uptime": 2090.790930277778,
-              "speed": 312.26655,
+              "uptime": 2114.7012955555556,
+              "speed": 319.042329,
               "config_path": "JP/tcp/server_12_tcp.ovpn"
             },
             {
               "id": 13,
-              "hostname": "public-vpn-261",
-              "ip": "219.100.37.192",
-              "port": "443",
+              "hostname": "vpn424009077",
+              "ip": "223.133.186.70",
+              "port": "1568",
               "protocol": "tcp",
-              "uptime": 2090.785353611111,
-              "speed": 290.777653,
+              "uptime": 98.342975,
+              "speed": 298.316897,
               "config_path": "JP/tcp/server_13_tcp.ovpn"
             },
             {
               "id": 14,
-              "hostname": "public-vpn-42",
-              "ip": "219.100.37.6",
-              "port": "443",
+              "hostname": "vpn788502559",
+              "ip": "220.254.220.117",
+              "port": "1908",
               "protocol": "tcp",
-              "uptime": 2090.7944766666665,
-              "speed": 278.379876,
+              "uptime": 2159.8185305555558,
+              "speed": 253.898905,
               "config_path": "JP/tcp/server_14_tcp.ovpn"
             },
             {
               "id": 15,
-              "hostname": "public-vpn-100",
-              "ip": "219.100.37.57",
+              "hostname": "public-vpn-129",
+              "ip": "219.100.37.103",
               "port": "443",
               "protocol": "tcp",
-              "uptime": 2090.798530277778,
-              "speed": 273.625498,
+              "uptime": 2114.7043433333333,
+              "speed": 252.672366,
               "config_path": "JP/tcp/server_15_tcp.ovpn"
             },
             {
               "id": 16,
-              "hostname": "public-vpn-144",
-              "ip": "219.100.37.106",
+              "hostname": "public-vpn-123",
+              "ip": "219.100.37.89",
               "port": "443",
               "protocol": "tcp",
-              "uptime": 2090.790418888889,
-              "speed": 271.219674,
+              "uptime": 2114.704008611111,
+              "speed": 248.218774,
               "config_path": "JP/tcp/server_16_tcp.ovpn"
             },
             {
               "id": 17,
-              "hostname": "laud",
-              "ip": "115.179.206.241",
-              "port": "443",
+              "hostname": "vpn275519280",
+              "ip": "49.251.90.199",
+              "port": "1897",
               "protocol": "tcp",
-              "uptime": 124.757255,
-              "speed": 256.887857,
+              "uptime": 25.55908611111111,
+              "speed": 242.165252,
               "config_path": "JP/tcp/server_17_tcp.ovpn"
             },
             {
               "id": 18,
-              "hostname": "public-vpn-219",
-              "ip": "219.100.37.206",
+              "hostname": "public-vpn-47",
+              "ip": "219.100.37.11",
               "port": "443",
               "protocol": "tcp",
-              "uptime": 2090.7980747222223,
-              "speed": 256.84617,
+              "uptime": 2114.703233888889,
+              "speed": 221.605173,
               "config_path": "JP/tcp/server_18_tcp.ovpn"
             },
             {
               "id": 19,
-              "hostname": "vpn843795415",
-              "ip": "60.103.252.159",
-              "port": "1991",
-              "protocol": "tcp",
-              "uptime": 24.321421666666666,
-              "speed": 254.692035,
-              "config_path": "JP/tcp/server_19_tcp.ovpn"
-            },
-            {
-              "id": 20,
-              "hostname": "public-vpn-234",
-              "ip": "219.100.37.172",
-              "port": "443",
-              "protocol": "tcp",
-              "uptime": 2090.783488611111,
-              "speed": 250.501979,
-              "config_path": "JP/tcp/server_20_tcp.ovpn"
-            },
-            {
-              "id": 21,
-              "hostname": "public-vpn-151",
-              "ip": "219.100.37.120",
-              "port": "443",
-              "protocol": "tcp",
-              "uptime": 2090.80015,
-              "speed": 249.466736,
-              "config_path": "JP/tcp/server_21_tcp.ovpn"
-            },
-            {
-              "id": 22,
-              "hostname": "public-vpn-232",
-              "ip": "219.100.37.170",
-              "port": "443",
-              "protocol": "tcp",
-              "uptime": 2090.7915669444446,
-              "speed": 248.830971,
-              "config_path": "JP/tcp/server_22_tcp.ovpn"
-            },
-            {
-              "id": 23,
-              "hostname": "public-vpn-158",
-              "ip": "219.100.37.123",
-              "port": "443",
-              "protocol": "tcp",
-              "uptime": 2090.787263333333,
-              "speed": 233.125924,
-              "config_path": "JP/tcp/server_23_tcp.ovpn"
-            },
-            {
-              "id": 24,
-              "hostname": "public-vpn-213",
-              "ip": "219.100.37.200",
-              "port": "443",
-              "protocol": "tcp",
-              "uptime": 2090.7973333333334,
-              "speed": 231.352677,
-              "config_path": "JP/tcp/server_24_tcp.ovpn"
-            },
-            {
-              "id": 25,
-              "hostname": "public-vpn-130",
-              "ip": "219.100.37.90",
-              "port": "443",
-              "protocol": "tcp",
-              "uptime": 2090.7986019444443,
-              "speed": 230.81357,
-              "config_path": "JP/tcp/server_25_tcp.ovpn"
-            },
-            {
-              "id": 26,
-              "hostname": "public-vpn-145",
-              "ip": "219.100.37.118",
-              "port": "443",
-              "protocol": "tcp",
-              "uptime": 2090.7933361111113,
-              "speed": 197.714033,
-              "config_path": "JP/tcp/server_26_tcp.ovpn"
-            },
-            {
-              "id": 27,
-              "hostname": "public-vpn-133",
-              "ip": "219.100.37.91",
-              "port": "443",
-              "protocol": "tcp",
-              "uptime": 2090.7937644444446,
-              "speed": 175.87852,
-              "config_path": "JP/tcp/server_27_tcp.ovpn"
-            },
-            {
-              "id": 28,
-              "hostname": "public-vpn-57",
-              "ip": "219.100.37.21",
-              "port": "443",
-              "protocol": "tcp",
-              "uptime": 2090.799236111111,
-              "speed": 165.802842,
-              "config_path": "JP/tcp/server_28_tcp.ovpn"
-            },
-            {
-              "id": 29,
               "hostname": "public-vpn-71",
               "ip": "219.100.37.25",
               "port": "443",
               "protocol": "tcp",
-              "uptime": 2090.788342777778,
-              "speed": 165.099342,
-              "config_path": "JP/tcp/server_29_tcp.ovpn"
+              "uptime": 2114.7014344444447,
+              "speed": 201.543848,
+              "config_path": "JP/tcp/server_19_tcp.ovpn"
             },
             {
-              "id": 30,
-              "hostname": "vpn960576896",
-              "ip": "126.71.119.167",
-              "port": "1321",
+              "id": 20,
+              "hostname": "laud",
+              "ip": "115.179.206.241",
+              "port": "443",
               "protocol": "tcp",
-              "uptime": 24.321421666666666,
-              "speed": 127.800411,
-              "config_path": "JP/tcp/server_30_tcp.ovpn"
+              "uptime": 150.31630833333332,
+              "speed": 196.236502,
+              "config_path": "JP/tcp/server_20_tcp.ovpn"
             },
             {
-              "id": 31,
-              "hostname": "vpn715965150",
-              "ip": "125.8.169.194",
-              "port": "1763",
+              "id": 21,
+              "hostname": "public-vpn-219",
+              "ip": "219.100.37.206",
+              "port": "443",
               "protocol": "tcp",
-              "uptime": 196.42558833333334,
-              "speed": 95.416081,
-              "config_path": "JP/tcp/server_31_tcp.ovpn"
+              "uptime": 2114.7065841666667,
+              "speed": 181.452689,
+              "config_path": "JP/tcp/server_21_tcp.ovpn"
             },
             {
-              "id": 32,
-              "hostname": "vpn549204742",
-              "ip": "131.213.124.44",
-              "port": "1538",
+              "id": 22,
+              "hostname": "public-vpn-90",
+              "ip": "219.100.37.55",
+              "port": "443",
               "protocol": "tcp",
-              "uptime": 24.321421666666666,
-              "speed": 88.142312,
-              "config_path": "JP/tcp/server_32_tcp.ovpn"
+              "uptime": 2114.702473611111,
+              "speed": 175.593894,
+              "config_path": "JP/tcp/server_22_tcp.ovpn"
             },
             {
-              "id": 33,
-              "hostname": "vpn797130044",
-              "ip": "153.151.203.117",
-              "port": "1832",
+              "id": 23,
+              "hostname": "vpn931886866",
+              "ip": "60.109.155.151",
+              "port": "1255",
               "protocol": "tcp",
-              "uptime": 24.321421666666666,
-              "speed": 73.990769,
-              "config_path": "JP/tcp/server_33_tcp.ovpn"
+              "uptime": 792.4649194444445,
+              "speed": 80.861572,
+              "config_path": "JP/tcp/server_23_tcp.ovpn"
             },
             {
-              "id": 34,
-              "hostname": "vpn180458260",
-              "ip": "60.137.146.81",
-              "port": "1437",
+              "id": 24,
+              "hostname": "vpn975550277",
+              "ip": "180.198.99.182",
+              "port": "1514",
               "protocol": "tcp",
-              "uptime": 269.9708661111111,
-              "speed": 58.394545,
-              "config_path": "JP/tcp/server_34_tcp.ovpn"
+              "uptime": 435.8390861111111,
+              "speed": 72.71545,
+              "config_path": "JP/tcp/server_24_tcp.ovpn"
             },
             {
-              "id": 35,
-              "hostname": "vpn977972287",
-              "ip": "119.240.23.248",
-              "port": "1497",
+              "id": 25,
+              "hostname": "vpn104717671",
+              "ip": "36.13.6.150",
+              "port": "1419",
               "protocol": "tcp",
-              "uptime": 76.5658661111111,
-              "speed": 26.853374,
-              "config_path": "JP/tcp/server_35_tcp.ovpn"
-            }
-          ]
-        },
-        "udp": {
-          "total": 2,
-          "servers": [
-            {
-              "id": 1,
-              "hostname": "vpn541678405",
-              "ip": "116.12.3.63",
-              "port": "1871",
-              "protocol": "udp",
-              "uptime": 49.69836611111111,
-              "speed": 520.026465,
-              "config_path": "JP/udp/server_1_udp.ovpn"
+              "uptime": 1846.9821416666666,
+              "speed": 45.54371,
+              "config_path": "JP/tcp/server_25_tcp.ovpn"
             },
             {
-              "id": 2,
-              "hostname": "vpn999680564",
-              "ip": "138.64.70.36",
-              "port": "28853",
-              "protocol": "udp",
-              "uptime": 24.321421666666666,
-              "speed": 90.164048,
-              "config_path": "JP/udp/server_2_udp.ovpn"
+              "id": 26,
+              "hostname": "vpn105721579",
+              "ip": "60.87.154.156",
+              "port": "1710",
+              "protocol": "tcp",
+              "uptime": 118.76325277777778,
+              "speed": 2.824665,
+              "config_path": "JP/tcp/server_26_tcp.ovpn"
             }
           ]
         }
       }
     },
     "KR": {
-      "total": 8,
+      "total": 9,
       "protocols": {
         "tcp": {
-          "total": 8,
+          "total": 9,
           "servers": [
             {
               "id": 1,
-              "hostname": "vpn267531295",
-              "ip": "218.155.19.34",
+              "hostname": "vpn683396234",
+              "ip": "119.201.195.69",
               "port": "995",
               "protocol": "tcp",
-              "uptime": 24.321421666666666,
-              "speed": 453.676929,
+              "uptime": 71.257975,
+              "speed": 395.840446,
               "config_path": "KR/tcp/server_1_tcp.ovpn"
             },
             {
               "id": 2,
-              "hostname": "vpn837518130",
-              "ip": "211.38.17.181",
-              "port": "995",
+              "hostname": "vpn966533712",
+              "ip": "59.6.114.202",
+              "port": "1941",
               "protocol": "tcp",
-              "uptime": 290.19197722222225,
-              "speed": 336.681016,
+              "uptime": 387.0993638888889,
+              "speed": 169.960323,
               "config_path": "KR/tcp/server_2_tcp.ovpn"
             },
             {
               "id": 3,
-              "hostname": "vpn849714078",
-              "ip": "121.141.56.54",
+              "hostname": "vpn977196819",
+              "ip": "211.221.75.140",
               "port": "995",
               "protocol": "tcp",
-              "uptime": 269.9708661111111,
-              "speed": 78.381764,
+              "uptime": 75.25741944444445,
+              "speed": 94.551284,
               "config_path": "KR/tcp/server_3_tcp.ovpn"
             },
             {
               "id": 4,
-              "hostname": "vpn843265469",
-              "ip": "220.93.52.189",
-              "port": "995",
+              "hostname": "vpn212659027",
+              "ip": "220.119.118.175",
+              "port": "1854",
               "protocol": "tcp",
-              "uptime": 1274.9886438888889,
-              "speed": 72.994347,
+              "uptime": 25.55908611111111,
+              "speed": 89.200203,
               "config_path": "KR/tcp/server_4_tcp.ovpn"
             },
             {
               "id": 5,
-              "hostname": "vpn707256107",
-              "ip": "211.114.92.6",
+              "hostname": "vpn389399582",
+              "ip": "222.113.30.74",
               "port": "995",
               "protocol": "tcp",
-              "uptime": 45.698921666666664,
-              "speed": 66.056593,
+              "uptime": 122.625475,
+              "speed": 87.284084,
               "config_path": "KR/tcp/server_5_tcp.ovpn"
             },
             {
               "id": 6,
-              "hostname": "vpn148979619",
-              "ip": "59.20.43.26",
-              "port": "995",
+              "hostname": "vpn836170658",
+              "ip": "221.146.50.178",
+              "port": "1636",
               "protocol": "tcp",
-              "uptime": 24.321421666666666,
-              "speed": 61.030113,
+              "uptime": 315.75103055555553,
+              "speed": 73.406155,
               "config_path": "KR/tcp/server_6_tcp.ovpn"
             },
             {
               "id": 7,
-              "hostname": "vpn554018431",
-              "ip": "211.34.170.229",
+              "hostname": "vpn236181322",
+              "ip": "218.236.71.99",
               "port": "995",
               "protocol": "tcp",
-              "uptime": 97.06642166666667,
-              "speed": 55.834065,
+              "uptime": 98.342975,
+              "speed": 67.049777,
               "config_path": "KR/tcp/server_7_tcp.ovpn"
             },
             {
               "id": 8,
-              "hostname": "vpn366035474",
-              "ip": "211.198.186.109",
-              "port": "1353",
+              "hostname": "vpn314046814",
+              "ip": "221.151.149.159",
+              "port": "1792",
               "protocol": "tcp",
-              "uptime": 100.77281055555555,
-              "speed": 44.395492,
+              "uptime": 671.9926972222222,
+              "speed": 53.263899,
               "config_path": "KR/tcp/server_8_tcp.ovpn"
+            },
+            {
+              "id": 9,
+              "hostname": "vpn748359672",
+              "ip": "182.237.221.52",
+              "port": "1458",
+              "protocol": "tcp",
+              "uptime": 75.25741944444445,
+              "speed": 29.519838,
+              "config_path": "KR/tcp/server_9_tcp.ovpn"
+            }
+          ]
+        }
+      }
+    },
+    "LA": {
+      "total": 1,
+      "protocols": {
+        "udp": {
+          "total": 1,
+          "servers": [
+            {
+              "id": 1,
+              "hostname": "vpn840632613",
+              "ip": "183.182.110.233",
+              "port": "14757",
+              "protocol": "udp",
+              "uptime": 102.12491944444444,
+              "speed": 2.006289,
+              "config_path": "LA/udp/server_1_udp.ovpn"
             }
           ]
         }
@@ -536,8 +431,8 @@
               "ip": "217.138.212.62",
               "port": "443",
               "protocol": "tcp",
-              "uptime": 24.321421666666666,
-              "speed": 140.127163,
+              "uptime": 49.880475,
+              "speed": 137.924944,
               "config_path": "RO/tcp/server_1_tcp.ovpn"
             }
           ]
@@ -545,70 +440,50 @@
       }
     },
     "RU": {
-      "total": 7,
+      "total": 5,
       "protocols": {
         "tcp": {
-          "total": 6,
+          "total": 4,
           "servers": [
             {
               "id": 1,
-              "hostname": "vpn704958282",
-              "ip": "178.67.35.252",
-              "port": "1986",
+              "hostname": "vpn756978111",
+              "ip": "5.172.25.62",
+              "port": "1223",
               "protocol": "tcp",
-              "uptime": 24.321421666666666,
-              "speed": 168.796849,
+              "uptime": 71.257975,
+              "speed": 114.683851,
               "config_path": "RU/tcp/server_1_tcp.ovpn"
             },
             {
               "id": 2,
-              "hostname": "vpn809464495",
-              "ip": "87.225.25.140",
-              "port": "1806",
+              "hostname": "vpn951167378",
+              "ip": "2.61.52.32",
+              "port": "1648",
               "protocol": "tcp",
-              "uptime": 124.757255,
-              "speed": 94.560795,
+              "uptime": 25.55908611111111,
+              "speed": 42.772051,
               "config_path": "RU/tcp/server_2_tcp.ovpn"
             },
             {
               "id": 3,
-              "hostname": "vpn358182595",
-              "ip": "2.60.14.132",
-              "port": "1587",
+              "hostname": "vpn857522136",
+              "ip": "212.13.2.109",
+              "port": "1876",
               "protocol": "tcp",
-              "uptime": 24.321421666666666,
-              "speed": 63.677838,
+              "uptime": 25.55908611111111,
+              "speed": 39.291496,
               "config_path": "RU/tcp/server_3_tcp.ovpn"
             },
             {
               "id": 4,
-              "hostname": "vpn753108762",
-              "ip": "77.34.93.176",
-              "port": "1847",
-              "protocol": "tcp",
-              "uptime": 72.78392166666667,
-              "speed": 63.37947,
-              "config_path": "RU/tcp/server_4_tcp.ovpn"
-            },
-            {
-              "id": 5,
-              "hostname": "vpn834868161",
-              "ip": "86.102.26.247",
-              "port": "1708",
-              "protocol": "tcp",
-              "uptime": 72.78392166666667,
-              "speed": 43.440078,
-              "config_path": "RU/tcp/server_5_tcp.ovpn"
-            },
-            {
-              "id": 6,
               "hostname": "vpn171380381",
               "ip": "86.102.176.129",
               "port": "1965",
               "protocol": "tcp",
-              "uptime": 286.44197722222225,
-              "speed": 11.477248,
-              "config_path": "RU/tcp/server_6_tcp.ovpn"
+              "uptime": 312.00103055555553,
+              "speed": 12.444997,
+              "config_path": "RU/tcp/server_4_tcp.ovpn"
             }
           ]
         },
@@ -617,12 +492,12 @@
           "servers": [
             {
               "id": 1,
-              "hostname": "vpn421481264",
-              "ip": "77.106.82.78",
-              "port": "1195",
+              "hostname": "vpn545491773",
+              "ip": "82.162.122.37",
+              "port": "4620",
               "protocol": "udp",
-              "uptime": 306.60531055555555,
-              "speed": 89.911363,
+              "uptime": 25.55908611111111,
+              "speed": 95.006484,
               "config_path": "RU/udp/server_1_udp.ovpn"
             }
           ]
@@ -637,23 +512,93 @@
           "servers": [
             {
               "id": 1,
-              "hostname": "vpn117306238",
-              "ip": "27.130.11.55",
-              "port": "1938",
+              "hostname": "vpn321363861",
+              "ip": "27.130.39.163",
+              "port": "1444",
               "protocol": "udp",
-              "uptime": 49.69836611111111,
-              "speed": 470.041702,
+              "uptime": 25.55908611111111,
+              "speed": 358.497033,
               "config_path": "TH/udp/server_1_udp.ovpn"
             },
             {
               "id": 2,
-              "hostname": "vpn451832275",
-              "ip": "171.4.248.124",
-              "port": "1479",
+              "hostname": "vpn699885247",
+              "ip": "27.130.48.181",
+              "port": "1639",
               "protocol": "udp",
-              "uptime": 45.698921666666664,
-              "speed": 86.068465,
+              "uptime": 49.880475,
+              "speed": 234.635999,
               "config_path": "TH/udp/server_2_udp.ovpn"
+            }
+          ]
+        }
+      }
+    },
+    "VN": {
+      "total": 6,
+      "protocols": {
+        "tcp": {
+          "total": 6,
+          "servers": [
+            {
+              "id": 1,
+              "hostname": "vpn279190265",
+              "ip": "113.22.202.23",
+              "port": "1901",
+              "protocol": "tcp",
+              "uptime": 49.880475,
+              "speed": 138.611137,
+              "config_path": "VN/tcp/server_1_tcp.ovpn"
+            },
+            {
+              "id": 2,
+              "hostname": "vpn516642203",
+              "ip": "113.22.202.23",
+              "port": "1548",
+              "protocol": "tcp",
+              "uptime": 49.880475,
+              "speed": 119.098808,
+              "config_path": "VN/tcp/server_2_tcp.ovpn"
+            },
+            {
+              "id": 3,
+              "hostname": "vpn665155582",
+              "ip": "113.22.202.23",
+              "port": "1337",
+              "protocol": "tcp",
+              "uptime": 45.801030555555556,
+              "speed": 115.626612,
+              "config_path": "VN/tcp/server_3_tcp.ovpn"
+            },
+            {
+              "id": 4,
+              "hostname": "vpn842914014",
+              "ip": "113.22.202.23",
+              "port": "1329",
+              "protocol": "tcp",
+              "uptime": 45.801030555555556,
+              "speed": 98.661579,
+              "config_path": "VN/tcp/server_4_tcp.ovpn"
+            },
+            {
+              "id": 5,
+              "hostname": "vpn809278086",
+              "ip": "113.22.202.23",
+              "port": "1356",
+              "protocol": "tcp",
+              "uptime": 49.880475,
+              "speed": 85.331024,
+              "config_path": "VN/tcp/server_5_tcp.ovpn"
+            },
+            {
+              "id": 6,
+              "hostname": "vpn178239969",
+              "ip": "113.22.202.23",
+              "port": "1634",
+              "protocol": "tcp",
+              "uptime": 49.880475,
+              "speed": 73.526246,
+              "config_path": "VN/tcp/server_6_tcp.ovpn"
             }
           ]
         }
